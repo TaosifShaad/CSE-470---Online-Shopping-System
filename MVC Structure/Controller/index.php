@@ -5,6 +5,7 @@
     <title></title>
   </head>
   <link rel="stylesheet" href="../View/css/style.css">
+  <link rel="icon" href="../View/css/favicon.ico">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <link rel="stylesheet" href="owl.carousel.css">
   <link rel="stylesheet" href="owl.theme.css">
